@@ -1,10 +1,10 @@
-### BTN
+### batincelik | lexalot
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=batincelik&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batincelik&layout=compact)
 
-### Connect with me:
+### Benimle bağlantı kur:
 
 [<img align="left" alt="Aspera | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="Aspera| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
